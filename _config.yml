@@ -1,0 +1,23 @@
+name: evan
+favicon: null
+layout_spectrum: 0.334413253236562
+typography_spectrum: 0.8000899208709598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4960573283024132
+  lightness: 0.18799253972247243
+  saturation: 0.10881794011220336
+  rhythmicContrast: 0.4391691342461854
+purpose: []
